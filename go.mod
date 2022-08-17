@@ -1,3 +1,4 @@
-module github.com/randleem/myniceprogram
+module myapp
+ 
 
 go 1.18
